@@ -4,7 +4,7 @@ I'm leveling up my data viz game with a **30-day Tableau challenge** — 1 viz a
 
 🟢 Beginner → 🟡 Intermediate → 🔵 Advanced → 🟣 Expert
 
-🔗 [View my Tableau Public profile]([https://public.tableau.com/app/profile/your_username](https://public.tableau.com/app/profile/siddhant.mene4865/vizzes))
+🔗 [View my Tableau Public profile](https://public.tableau.com/app/profile/siddhant.mene4865/vizzes)
 
 | Day | Title | Skill Level | Link |
 |-----|-------|-------------|------|
