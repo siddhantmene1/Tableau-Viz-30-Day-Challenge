@@ -1,40 +1,14 @@
-# Day 1 – 30-Day Tableau Public Challenge
+## 📊 30-Day Tableau Public Challenge
 
-## Project: Breaking Bad – Who Directed It Best?
+I'm leveling up my data viz game with a **30-day Tableau challenge** — 1 viz a day, each day more advanced than the last. From basic charts to full storytelling dashboards!
 
-### 🔍 Objective
-To analyze episode-level data from *Breaking Bad* and identify which director consistently delivered the most highly rated and popular episodes.
+🟢 Beginner → 🟡 Intermediate → 🔵 Advanced → 🟣 Expert
 
----
+🔗 [View my Tableau Public profile]([https://public.tableau.com/app/profile/your_username](https://public.tableau.com/app/profile/siddhant.mene4865/vizzes))
 
-## What I Did
-- Built a **bar chart** showing average IMDB rating by director
-- Created a **bar chart** for total U.S. viewership by director
-- Designed a **scatter plot** to visualize episode-wise ratings vs. popularity
-- Used **color encoding** to represent seasons
-- Enabled **interactive filtering** across charts using dashboard actions
+| Day | Title | Skill Level | Link |
+|-----|-------|-------------|------|
+| 1   | Breaking Bad: Best Director | 🟢 Beginner | [View](#) |
+| 2   | _Coming soon..._ |  |  |
 
----
-
-## What I Learned
-
-### Tableau Skills:
-- How to build and format basic bar and scatter plots
-- Using **“Use as Filter”** to create interactive dashboards
-- Adjusting **axis ranges** to better visualize clustered data (e.g., ratings between 7–10)
-- Creating **summary tables** with calculated fields (avg, count, sum)
-- Dashboard design and layout tips for beginner storytelling
-
-### Visualization Insights:
-- Ratings alone don’t show popularity — viewership numbers add depth
-- Directors like Rian Johnson had fewer but highly rated episodes, while others were consistent across multiple seasons
-- Importance of using **color** and **tooltip enhancements** to convey layers of information
-
----
-
-## 💡 Takeaway
-Even simple visualizations can tell rich stories when combined thoughtfully. This beginner project helped me build a strong foundation in Tableau basics while also exploring the storytelling power of interactivity.
-
----
-
-🔗 **Live Viz**: [Tableau Public – Breaking Bad Dashboard](https://public.tableau.com/app/profile/your_username)
+🏷️ #30DayVizChallenge | 📈 Portfolio in Progress
