@@ -8,7 +8,7 @@ I'm leveling up my data viz game with a **30-day Tableau challenge** — 1 viz a
 
 | Day | Title | Skill Level | Link |
 |-----|-------|-------------|------|
-| 1   | Breaking Bad: Best Director | 🟢 Beginner | [View](#) |
+| 1   | Breaking Bad: Best Director | 🟢 Beginner | [View](https://public.tableau.com/app/profile/siddhant.mene4865/viz/D1_BreakingBad/IMDBBreakingBad) |
 | 2   | _Coming soon..._ |  |  |
 
 🏷️ #30DayVizChallenge | 📈 Portfolio in Progress
